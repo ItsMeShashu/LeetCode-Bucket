@@ -20,3 +20,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2428-equal-row-and-column-pairs) |
+# Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0344-reverse-string) |
+# String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0344-reverse-string) |
