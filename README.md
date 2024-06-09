@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0061-rotate-list) |
 # Recursion
 |  |
 | ------- |
