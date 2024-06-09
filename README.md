@@ -74,3 +74,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0523-continuous-subarray-sum) |
+# Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0025-reverse-nodes-in-k-group) |
+# Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0025-reverse-nodes-in-k-group) |
