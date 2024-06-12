@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0228-summary-ranges) |
 | [0523-continuous-subarray-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0523-continuous-subarray-sum) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0169-majority-element) |
 | [0876-hand-of-straights](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1137-height-checker) |
