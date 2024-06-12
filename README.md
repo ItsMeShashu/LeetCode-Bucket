@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2470-removing-stars-from-a-string) |
 # Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0344-reverse-string) |
 | [0648-replace-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1044-find-common-characters) |
+| [2470-removing-stars-from-a-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2470-removing-stars-from-a-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
@@ -108,3 +110,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0224-basic-calculator) |
+| [2470-removing-stars-from-a-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2470-removing-stars-from-a-string) |
