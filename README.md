@@ -111,3 +111,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0224-basic-calculator](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0224-basic-calculator) |
 | [2470-removing-stars-from-a-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2470-removing-stars-from-a-string) |
+# Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0969-number-of-recent-calls) |
+# Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0969-number-of-recent-calls) |
+# Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0969-number-of-recent-calls) |
