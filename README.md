@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1319-unique-number-of-occurrences) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2428-equal-row-and-column-pairs](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2428-equal-row-and-column-pairs) |
 # Hash Table
 |  |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Divide and Conquer
 |  |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting
 |  |
 | ------- |
