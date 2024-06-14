@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1319-unique-number-of-occurrences) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2428-equal-row-and-column-pairs](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2428-equal-row-and-column-pairs) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2553-total-cost-to-hire-k-workers) |
 # Hash Table
 |  |
 | ------- |
@@ -42,12 +43,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2470-removing-stars-from-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2553-total-cost-to-hire-k-workers) |
 # Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0344-reverse-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -136,3 +139,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2553-total-cost-to-hire-k-workers) |
