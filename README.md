@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1319-unique-number-of-occurrences) |
+| [2413-smallest-number-in-infinite-set](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2428-equal-row-and-column-pairs) |
 # Matrix
 |  |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0969-number-of-recent-calls) |
+| [2413-smallest-number-in-infinite-set](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2413-smallest-number-in-infinite-set) |
 # Queue
 |  |
 | ------- |
@@ -130,3 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0969-number-of-recent-calls) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2413-smallest-number-in-infinite-set) |
