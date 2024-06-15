@@ -144,3 +144,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0502-ipo) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2553-total-cost-to-hire-k-workers) |
+# Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0226-invert-binary-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0226-invert-binary-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0226-invert-binary-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0226-invert-binary-tree) |
