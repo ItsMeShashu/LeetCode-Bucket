@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0228-summary-ranges) |
+| [0330-patching-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0648-replace-words) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0982-minimum-increment-to-make-array-unique) |
