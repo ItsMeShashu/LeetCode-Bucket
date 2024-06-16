@@ -154,16 +154,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0226-invert-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1544-count-good-nodes-in-binary-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0226-invert-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1544-count-good-nodes-in-binary-tree) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0226-invert-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1544-count-good-nodes-in-binary-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0226-invert-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1544-count-good-nodes-in-binary-tree) |
