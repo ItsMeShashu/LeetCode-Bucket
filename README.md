@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0633-sum-of-square-numbers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0224-basic-calculator](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0224-basic-calculator) |
 | [0523-continuous-subarray-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
 |  |
 | ------- |
@@ -171,3 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0226-invert-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1544-count-good-nodes-in-binary-tree) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0633-sum-of-square-numbers) |
