@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1319-unique-number-of-occurrences) |
@@ -194,3 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1675-magnetic-force-between-two-balls) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1138-grumpy-bookstore-owner) |
