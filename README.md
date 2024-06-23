@@ -140,10 +140,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0224-basic-calculator) |
+| [0937-online-stock-span](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0937-online-stock-span) |
 | [2470-removing-stars-from-a-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2470-removing-stars-from-a-string) |
 # Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2413-smallest-number-in-infinite-set) |
 # Queue
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0969-number-of-recent-calls) |
 # Heap (Priority Queue)
 |  |
@@ -211,3 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0937-online-stock-span) |
