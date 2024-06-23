@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0648-replace-words) |
 | [0853-most-profit-assigning-work](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0876-hand-of-straights) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0954-maximum-sum-circular-subarray) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1044-find-common-characters) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0169-majority-element) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0954-maximum-sum-circular-subarray) |
 # Sorting
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Data Stream
@@ -216,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Monotonic Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0954-maximum-sum-circular-subarray) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Monotonic Stack
 |  |
@@ -226,3 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0077-combinations](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0079-word-search) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0954-maximum-sum-circular-subarray) |
