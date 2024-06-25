@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0079-word-search) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0036-valid-sudoku) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0523-continuous-subarray-sum) |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0079-word-search) |
 | [2428-equal-row-and-column-pairs](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2428-equal-row-and-column-pairs) |
 # Simulation
