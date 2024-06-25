@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0079-word-search) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0079-word-search) |
 # Dynamic Programming
