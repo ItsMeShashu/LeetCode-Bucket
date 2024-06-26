@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Divide and Conquer
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0954-maximum-sum-circular-subarray) |
+| [1285-balance-a-binary-search-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1285-balance-a-binary-search-tree) |
 # Sorting
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0437-path-sum-iii) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1544-count-good-nodes-in-binary-tree) |
 # Depth-First Search
 |  |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0437-path-sum-iii) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1544-count-good-nodes-in-binary-tree) |
 # Breadth-First Search
 |  |
@@ -206,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0437-path-sum-iii) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1544-count-good-nodes-in-binary-tree) |
 # Binary Search
 |  |
@@ -247,3 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1285-balance-a-binary-search-tree) |
