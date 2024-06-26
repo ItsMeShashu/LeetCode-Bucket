@@ -247,10 +247,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0338-counting-bits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0954-maximum-sum-circular-subarray) |
 # Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0338-counting-bits) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Binary Search Tree
 |  |
