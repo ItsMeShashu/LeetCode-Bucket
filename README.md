@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0221-maximal-square) |
 | [0967-minimum-falling-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0967-minimum-falling-path-sum) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 ## Matrix
 |  |
 | ------- |
