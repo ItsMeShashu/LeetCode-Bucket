@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0064-minimum-path-sum) |
+| [0096-unique-binary-search-trees](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0416-partition-equal-subset-sum) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0096-unique-binary-search-trees) |
 | [2645-pass-the-pillow](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2645-pass-the-pillow) |
 ## Combinatorics
 |  |
@@ -337,4 +339,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0494-target-sum) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
