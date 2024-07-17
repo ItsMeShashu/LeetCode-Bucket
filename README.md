@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0967-minimum-falling-path-sum) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1207-delete-nodes-and-return-forest) |
 | [1720-crawler-log-folder](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2846-robot-collisions](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2846-robot-collisions) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1207-delete-nodes-and-return-forest) |
 ## Two Pointers
 |  |
 | ------- |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0096-unique-binary-search-trees) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search Tree
 |  |
@@ -361,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0096-unique-binary-search-trees) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Recursion
 |  |
@@ -391,5 +395,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
