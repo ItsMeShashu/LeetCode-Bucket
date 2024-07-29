@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0210-course-schedule-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0210-course-schedule-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Shortest Path
@@ -419,9 +421,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0210-course-schedule-ii) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1511-count-number-of-teams) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
