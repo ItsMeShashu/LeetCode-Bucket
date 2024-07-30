@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2846-robot-collisions](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0221-maximal-square) |
 | [0967-minimum-falling-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0967-minimum-falling-path-sum) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Linked List
 |  |
 | ------- |
@@ -428,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0210-course-schedule-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0210-course-schedule-ii) |
 | [0871-keys-and-rooms](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0871-keys-and-rooms) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
