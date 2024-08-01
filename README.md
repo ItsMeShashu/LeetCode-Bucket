@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0097-interleaving-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0097-interleaving-string) |
 | [1250-longest-common-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1250-longest-common-subsequence) |
 | [1720-crawler-log-folder](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1720-crawler-log-folder) |
@@ -442,4 +444,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0210-course-schedule-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
