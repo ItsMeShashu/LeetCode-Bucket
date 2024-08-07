@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0096-unique-binary-search-trees) |
+| [0273-integer-to-english-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2645-pass-the-pillow) |
 ## Combinatorics
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -412,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0097-interleaving-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0097-interleaving-string) |
+| [0273-integer-to-english-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0273-integer-to-english-words) |
 | [1250-longest-common-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1250-longest-common-subsequence) |
 | [1720-crawler-log-folder](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1756-minimum-deletions-to-make-string-balanced) |
