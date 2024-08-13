@@ -322,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0148-sort-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0148-sort-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -516,4 +519,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0789-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
