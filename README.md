@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0624-maximum-distance-in-arrays) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0740-delete-and-earn](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0870-magic-squares-in-grid) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0494-target-sum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0740-delete-and-earn) |
 | [0967-minimum-falling-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0967-minimum-falling-path-sum) |
 | [1105-uncrossed-lines](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1105-uncrossed-lines) |
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1511-count-number-of-teams) |
 ## Topological Sort
 |  |
@@ -539,4 +542,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0148-sort-list) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
