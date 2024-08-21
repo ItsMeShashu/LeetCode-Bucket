@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0740-delete-and-earn) |
 | [0967-minimum-falling-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0967-minimum-falling-path-sum) |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0115-distinct-subsequences) |
 | [0273-integer-to-english-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0664-strange-printer) |
 | [1250-longest-common-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1250-longest-common-subsequence) |
 | [1720-crawler-log-folder](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1756-minimum-deletions-to-make-string-balanced) |
