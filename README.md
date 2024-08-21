@@ -358,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0097-interleaving-string) |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0091-decode-ways](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0115-distinct-subsequences) |
 | [0273-integer-to-english-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0273-integer-to-english-words) |
