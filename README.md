@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0221-maximal-square) |
+| [0239-sliding-window-maximum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0416-partition-equal-subset-sum) |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0239-sliding-window-maximum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -533,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0239-sliding-window-maximum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Counting
 |  |
@@ -549,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -579,4 +583,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0476-number-complement) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
