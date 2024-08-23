@@ -20,9 +20,6 @@ public:
             while(mp[pq.top()] <= 0){
                 pq.pop(); 
             }
-            // if(mp[pq.top()] > 0){  
-            //     ans.push_back(pq.top()); 
-            // }
             ans.push_back(pq.top());
             j++ ;
         }
