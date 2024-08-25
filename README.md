@@ -435,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0096-unique-binary-search-trees) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0096-unique-binary-search-trees) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0145-binary-tree-postorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -496,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0145-binary-tree-postorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0210-course-schedule-ii) |
 | [0871-keys-and-rooms](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0871-keys-and-rooms) |
 | [0999-regions-cut-by-slashes](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0999-regions-cut-by-slashes) |
