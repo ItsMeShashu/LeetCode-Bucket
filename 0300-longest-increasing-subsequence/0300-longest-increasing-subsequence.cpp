@@ -1,23 +1,6 @@
 class Solution {
 public:
 
-    // int recFunc(int n, vector<int> arr, int currIdx, int prevIdx){
-    //     if(currIdx == n){
-    //         return 0; 
-    //     }
-        
-    //     // INCLUDE but we also need to check condition before including
-    //     int include = 0; 
-    //     if(prevIdx == -1 || arr[currIdx] > arr[prevIdx]){
-    //         include = 1 + recFunc(n, arr, currIdx + 1, currIdx);  
-    //     }
-        
-    //     // EXCLUDE
-    //     int exclude = 0 + recFunc(n, arr, currIdx+1, prevIdx);
-        
-    //     return max(include, exclude); 
-    // }
-    
     int memFunc(int n, vector<int>& arr, int currIdx, int prevIdx, vector< vector<int> > &dp){
         if(currIdx == n){
             return 0; 
