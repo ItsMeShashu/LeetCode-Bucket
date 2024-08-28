@@ -15,7 +15,7 @@ public:
 
 // APPROACH 2: DP APPROACH.........................................
     int f(int ind, vector<int>& nums, vector<int>& dp) {
-        if (ind == nums.size()-1) return nums[ind]; 
+        // if (ind == nums.size()-1) return nums[ind]; 
         if (ind >= nums.size()) return 0; // no house to rob
 
         if (dp[ind] != -1) return dp[ind]; 
