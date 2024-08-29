@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0120-triangle) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0064-minimum-path-sum) |
@@ -500,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0055-jump-game) |
 | [0502-ipo](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0502-ipo) |
 | [0624-maximum-distance-in-arrays](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0890-lemonade-change) |
