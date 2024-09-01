@@ -430,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0273-integer-to-english-words) |
+| [0371-sum-of-two-integers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0371-sum-of-two-integers) |
 | [0650-2-keys-keyboard](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1240-stone-game-ii) |
@@ -615,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0476-number-complement) |
 ## Monotonic Queue
 |  |
