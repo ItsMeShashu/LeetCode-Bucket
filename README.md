@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
 | ------- |
@@ -419,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2645-pass-the-pillow) |
@@ -609,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
