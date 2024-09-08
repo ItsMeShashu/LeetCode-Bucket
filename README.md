@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0424-longest-repeating-character-replacement) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0148-sort-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0502-ipo) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -504,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0424-longest-repeating-character-replacement) |
 | [0664-strange-printer](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0664-strange-printer) |
