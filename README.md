@@ -418,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0148-sort-list) |
+| [0725-split-linked-list-in-parts](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2299-merge-nodes-in-between-zeros) |
