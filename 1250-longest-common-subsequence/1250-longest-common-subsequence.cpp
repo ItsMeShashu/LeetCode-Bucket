@@ -9,14 +9,16 @@ public:
         if(dp[i][j] != -1){
             return dp[i][j]; 
         }
+        int same = 0 ; 
+        int notSame = 0 ; 
         if(s1[i] == s2[j]){
-            dp[i][j] = 1 + solveMem(s1, s2, n, m, i+1, j+1, dp); 
+            same = 1 + solveMem(s1, s2, n, m, i+1, j+1, dp); 
         }
         else{
-            dp[i][j] = max(solveMem(s1, s2, n, m, i+1, j, dp), solveMem(s1, s2, n, m, i, j+1, dp)); 
+            notSame = max(solveMem(s1, s2, n, m, i+1, j, dp), solveMem(s1, s2, n, m, i, j+1, dp)); 
         }
 
-        return dp[i][j] ; 
+        return dp[i][j] = max(same, notSame) ; 
     }
     int solveTab(string &s1, string &s2, int n, int m) {
         vector< vector<int> >  dp(n+1, vector<int>(m+1, 0)) ;
