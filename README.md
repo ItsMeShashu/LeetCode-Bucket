@@ -431,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2411-spiral-matrix-iv) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1240-stone-game-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2645-pass-the-pillow) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -657,4 +659,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0572-subtree-of-another-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
