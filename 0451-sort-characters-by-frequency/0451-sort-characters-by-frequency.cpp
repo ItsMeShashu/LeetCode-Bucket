@@ -12,14 +12,11 @@ public:
             mp[i]++ ;
         }
 
-        vector< pair<char, int> > vec; 
-        for(auto it: mp){
-            vec.push_back(it); 
-        }
+        vector< pair<char, int> > vec(mp.begin(), mp.end()); 
 
         sort(vec.begin(), vec.end(), [](pair<char, int>& a, pair<char, int>& b){
             return a.second > b.second ;
-        }); //Sorting of a map
+        }); //Sorting of a vec
 
         string ans ; 
         for(auto i : vec){
