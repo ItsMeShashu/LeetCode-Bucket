@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0909-stone-game) |
+| [0966-binary-subarrays-with-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0999-regions-cut-by-slashes) |
 | [1105-uncrossed-lines](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1105-uncrossed-lines) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0870-magic-squares-in-grid) |
+| [0966-binary-subarrays-with-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -623,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0713-subarray-product-less-than-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0966-binary-subarrays-with-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Counting
 |  |
@@ -668,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0966-binary-subarrays-with-sum) |
 | [1240-stone-game-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
