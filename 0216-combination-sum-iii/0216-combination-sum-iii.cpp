@@ -8,9 +8,7 @@ public:
         }
 
         for (int i = num; i <=9; i++) {
-            if (num > target)
-                break;
-
+            // if (num > target) break;
             vec.push_back(i);
             target -= i ; 
             func(i + 1, target, k, vec, result);
@@ -18,7 +16,6 @@ public:
             vec.pop_back();
         }
     }
-
     vector<vector<int>> combinationSum3(int k, int n) {
         vector<vector<int>> result;
         vector<int> vec;
