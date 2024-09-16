@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0502-ipo) |
+| [0539-minimum-time-difference](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0624-maximum-distance-in-arrays) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0713-subarray-product-less-than-k) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0502-ipo) |
+| [0539-minimum-time-difference](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0539-minimum-time-difference) |
 | [0692-top-k-frequent-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1333-sort-the-jumbled-numbers) |
@@ -472,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0486-predict-the-winner) |
+| [0539-minimum-time-difference](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0909-stone-game) |
@@ -541,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0539-minimum-time-difference) |
 | [0664-strange-printer](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0692-top-k-frequent-words) |
