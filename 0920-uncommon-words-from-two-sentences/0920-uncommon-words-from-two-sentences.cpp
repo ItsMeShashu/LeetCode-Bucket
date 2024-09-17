@@ -3,8 +3,6 @@ public:
     vector<string> uncommonFromSentences(string s1, string s2) {
         string s = s1 + " " + s2;
 
-        cout<<s1.max_size();
-
         unordered_map<string,int> um;
         string tmp="";
         for(auto& val : s){ 
