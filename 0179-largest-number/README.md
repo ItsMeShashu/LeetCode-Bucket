@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/largest-number/">179. Largest Number</a></h2><h3>Medium</h3><hr><p>Given a list of non-negative integers <code>nums</code>, arrange them such that they form the largest number and return it.</p>
+<h2><a href="https://leetcode.com/problems/largest-number">179. Largest Number</a></h2><h3>Medium</h3><hr><p>Given a list of non-negative integers <code>nums</code>, arrange them such that they form the largest number and return it.</p>
 
 <p>Since the result may be very large, so you need to return a string instead of an integer.</p>
 
