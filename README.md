@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0179-largest-number) |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0242-valid-anagram) |
@@ -420,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0241-different-ways-to-add-parentheses) |
@@ -558,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0242-valid-anagram) |
@@ -747,9 +751,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0692-top-k-frequent-words) |
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
