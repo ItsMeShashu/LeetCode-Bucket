@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0169-majority-element) |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0221-maximal-square) |
 | [0870-magic-squares-in-grid](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0870-magic-squares-in-grid) |
 | [0967-minimum-falling-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0967-minimum-falling-path-sum) |
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0494-target-sum) |
@@ -551,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0115-distinct-subsequences) |
