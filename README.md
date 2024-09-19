@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0062-unique-paths) |
@@ -561,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0097-interleaving-string) |
@@ -589,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0145-binary-tree-postorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1756-minimum-deletions-to-make-string-balanced) |
