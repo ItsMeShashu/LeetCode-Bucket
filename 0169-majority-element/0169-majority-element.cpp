@@ -1,6 +1,7 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
+        //O(N) approach...........
         int count = 0;
         int candidate = 0;
         
@@ -17,5 +18,6 @@ public:
         }
         
         return candidate;
+        
     }
 };
