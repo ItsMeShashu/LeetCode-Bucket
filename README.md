@@ -573,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0242-valid-anagram) |
@@ -660,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0572-subtree-of-another-tree) |
 ## Database
 |  |
@@ -747,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0572-subtree-of-another-tree) |
 ## Number Theory
 |  |
@@ -771,4 +774,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0139-word-break](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
