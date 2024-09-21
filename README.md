@@ -621,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0145-binary-tree-postorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0210-course-schedule-ii) |
+| [0386-lexicographical-numbers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0386-lexicographical-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0572-subtree-of-another-tree) |
 | [0871-keys-and-rooms](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0871-keys-and-rooms) |
 | [0999-regions-cut-by-slashes](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0999-regions-cut-by-slashes) |
@@ -768,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0692-top-k-frequent-words) |
 ## Memoization
 |  |
