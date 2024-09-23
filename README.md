@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0870-magic-squares-in-grid) |
+| [0889-buddy-strings](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0999-regions-cut-by-slashes) |
@@ -584,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0692-top-k-frequent-words) |
+| [0889-buddy-strings](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1250-longest-common-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1250-longest-common-subsequence) |
 | [1720-crawler-log-folder](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1720-crawler-log-folder) |
