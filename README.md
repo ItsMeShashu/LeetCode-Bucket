@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -594,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -691,6 +693,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Strongly Connected Component
 |  |
