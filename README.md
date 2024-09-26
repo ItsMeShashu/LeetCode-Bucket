@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0413-arithmetic-slices](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0486-predict-the-winner) |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0322-coin-change) |
+| [0413-arithmetic-slices](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0494-target-sum) |
