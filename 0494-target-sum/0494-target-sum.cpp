@@ -1,22 +1,21 @@
 class Solution {
 public:
-    void memFunc(vector<int>& nums, int& target, int indx, int sum, int& count, vector<vector<int>>& dp, int offset, int n) {
+    int memFunc(vector<int>& nums, int& target, int indx, int sum, vector<vector<int>>& dp, int offset, int n) {
         if (indx >= n) {
-            if (sum == target) count++;
-            return;
+            // if (sum == target) count++;
+            if (sum == target) return 1;
+            return 0;
         }
-
         if (dp[indx][sum + offset] != -1) {
-            count += dp[indx][sum + offset];
-            return;
+            return dp[indx][sum + offset];
         }
+        // int initial_count = count; // Store the initial count
+          
+        int add = memFunc(nums, target, indx + 1, sum + nums[indx], dp, offset, n);
+        int sub = memFunc(nums, target, indx + 1, sum - nums[indx], dp, offset, n);
 
-        int initial_count = count; // Store the initial count
-
-        memFunc(nums, target, indx + 1, sum + nums[indx], count, dp, offset, n);
-        memFunc(nums, target, indx + 1, sum - nums[indx], count, dp, offset, n);
-
-        dp[indx][sum + offset] = count - initial_count; // Store the change in count
+        return dp[indx][sum + offset] = sub + add ; // Store the change in count
+         
     }
 
     int findTargetSumWays(vector<int>& nums, int target) {
@@ -30,8 +29,8 @@ public:
         int offset = sum_nums;
         vector<vector<int>> dp(n, vector<int>(2 * sum_nums + 1, -1));
 
-        memFunc(nums, target, indx, sum, count, dp, offset, n);
+        return memFunc(nums, target, indx, sum, dp, offset, n);
 
-        return count;
+        // return count;
     }
 };
