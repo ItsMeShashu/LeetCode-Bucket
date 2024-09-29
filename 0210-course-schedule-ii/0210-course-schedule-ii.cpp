@@ -4,8 +4,8 @@ public:
         unordered_map<int, list<int>> adj;
         vector<int> ans, indegree(numCourses, 0);
         for (int i = 0; i < prerequisites.size(); i++) {
-            int u = prerequisites[i][0];
-            int v = prerequisites[i][1];
+            int u = prerequisites[i][1];
+            int v = prerequisites[i][0];
             adj[u].push_back(v);
             indegree[v]++;
         }
@@ -25,7 +25,7 @@ public:
                 if (indegree[neighbour] == 0) q.push(neighbour);
             }
         }
-        reverse(ans.begin(), ans.end()); 
+        // reverse(ans.begin(), ans.end()); 
         if(ans.size() == numCourses) return ans ;
         else return vector<int>(); 
     }
