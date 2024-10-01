@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1511-count-number-of-teams](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1720-crawler-log-folder](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1720-crawler-log-folder) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1087-longest-arithmetic-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1087-longest-arithmetic-subsequence) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -703,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Strongly Connected Component
