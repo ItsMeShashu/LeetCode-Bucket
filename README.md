@@ -466,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1511-count-number-of-teams](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1511-count-number-of-teams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1761-count-sorted-vowel-strings](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1761-count-sorted-vowel-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -520,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1240-stone-game-ii) |
+| [1761-count-sorted-vowel-strings](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1761-count-sorted-vowel-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -527,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0062-unique-paths) |
+| [1761-count-sorted-vowel-strings](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1761-count-sorted-vowel-strings) |
 ## Backtracking
 |  |
 | ------- |
