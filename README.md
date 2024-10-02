@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0413-arithmetic-slices) |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0539-minimum-time-difference) |
@@ -672,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0322-coin-change) |
 | [0871-keys-and-rooms](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0871-keys-and-rooms) |
 | [0999-regions-cut-by-slashes](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0999-regions-cut-by-slashes) |
