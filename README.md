@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2262-solving-questions-with-brainpower) |
 | [2411-spiral-matrix-iv](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -436,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
 |  |
