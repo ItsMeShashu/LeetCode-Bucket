@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1002-maximum-width-ramp) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1105-uncrossed-lines) |
 | [1127-last-stone-weight](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1127-last-stone-weight) |
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0227-basic-calculator-ii) |
 | [0886-score-of-parentheses](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -868,4 +870,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1656-count-good-triplets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
