@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2262-solving-questions-with-brainpower) |
 | [2411-spiral-matrix-iv](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2411-spiral-matrix-iv) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2727-number-of-senior-citizens) |
@@ -412,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -449,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
@@ -683,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -780,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1325-path-with-maximum-probability) |
 | [1762-furthest-building-you-can-reach](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1762-furthest-building-you-can-reach) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Data Stream
 |  |
 | ------- |
@@ -807,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Game Theory
 |  |
 | ------- |
