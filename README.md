@@ -416,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -654,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2727-number-of-senior-citizens](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Stack
@@ -689,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3195-separate-black-and-white-balls) |
 ## Depth-First Search
 |  |
 | ------- |
