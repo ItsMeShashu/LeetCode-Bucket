@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0139-word-break) |
@@ -571,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0216-combination-sum-iii) |
@@ -828,6 +830,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0476-number-complement) |
