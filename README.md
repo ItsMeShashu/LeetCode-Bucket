@@ -555,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1240-stone-game-ii) |
@@ -686,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0179-largest-number) |
 | [0502-ipo](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0502-ipo) |
 | [0624-maximum-distance-in-arrays](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0957-minimum-add-to-make-parentheses-valid) |
