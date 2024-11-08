@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1762-furthest-building-you-can-reach](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1762-furthest-building-you-can-reach) |
 | [1923-sentence-similarity-iii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1923-sentence-similarity-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -835,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1694-make-sum-divisible-by-p) |
+| [1940-maximum-xor-for-each-query](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Game Theory
@@ -852,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1435-xor-queries-of-a-subarray) |
+| [1940-maximum-xor-for-each-query](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Monotonic Queue
