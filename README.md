@@ -368,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -775,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0966-binary-subarrays-with-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Counting
 |  |
 | ------- |
@@ -860,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
