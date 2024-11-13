@@ -7,10 +7,10 @@ public:
 
         for(int i = 0; i<n; i++){
             int left = i+1;
-            auto low = lower_bound(nums.begin()+left, nums.end(), lower-nums[i])-nums.begin();
-            auto high = upper_bound(nums.begin()+left, nums.end(), upper-nums[i])-nums.begin();
+            auto low = lower_bound(nums.begin()+left, nums.end(), lower-nums[i]);
+            auto high = upper_bound(nums.begin()+left, nums.end(), upper-nums[i]);
             count += (high-low);
         }
         return count;
     }
-};
+};                              
