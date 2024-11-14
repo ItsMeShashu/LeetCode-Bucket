@@ -6,7 +6,7 @@ public:
             int mid = s + (e-s)/2;
             int total = 0;
             for(int quantity:quantities){
-                total += (quantity+mid-1)/mid;
+                total += ceil((double)quantity / (double)mid);
             }
             if(total <= n){
                 e = mid;
