@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0909-stone-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0909-stone-game) |
 | [0966-binary-subarrays-with-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0967-minimum-falling-path-sum) |
@@ -438,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0475-heaters](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0475-heaters) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0729-my-calendar-i) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1087-longest-arithmetic-subsequence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -637,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -784,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0713-subarray-product-less-than-k) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0966-binary-subarrays-with-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -818,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1127-last-stone-weight](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1325-path-with-maximum-probability) |
@@ -848,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0560-subarray-sum-equals-k) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0966-binary-subarrays-with-sum) |
 | [1240-stone-game-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1435-xor-queries-of-a-subarray) |
@@ -878,6 +884,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Hash Function
 |  |
 | ------- |
