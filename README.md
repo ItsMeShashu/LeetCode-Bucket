@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -790,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/0966-binary-subarrays-with-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Counting
