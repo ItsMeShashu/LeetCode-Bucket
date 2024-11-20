@@ -21,7 +21,8 @@ public:
                 count[s[l] - 'a']++;
                 l++;
             }
-            res = min(res, static_cast<int>(s.length()) - (r - l + 1));
+            int newLen = s.length() - (r - l + 1) ; 
+            res = min(res, newLen);
         }
         return res;
     }
