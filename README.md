@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2089-maximum-matrix-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -540,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2089-maximum-matrix-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2411-spiral-matrix-iv) |
 ## Linked List
@@ -730,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1762-furthest-building-you-can-reach](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1762-furthest-building-you-can-reach) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2089-maximum-matrix-sum](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsMeShashu/LeetCode-Bucket/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
